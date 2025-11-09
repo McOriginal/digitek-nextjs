@@ -100,7 +100,7 @@ const Blog4 = () => {
                       Read More <i className='bi bi-arrow-right'></i>
                     </Link>
                     <Image
-                      src='/assets/img/news/client-img.png'
+                      src='/assets/img/hero/client.png'
                       alt='img'
                       width={104}
                       height={31}
